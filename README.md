@@ -31,5 +31,10 @@ Chloe Yarborough
 [Video](https://drive.google.com/file/d/1hGqf6jluYezOJ8ZGSl4ZutAz9fNFm5m6/view)
 [BackupVideo](https://www.youtube.com/watch?v=ddknR9Gy4pA)
 
+## Generated README.md Template
+[GeneratedREADME](./generatedReadme.md)
+
 ## Generated README Screenshot
 [Screenshot](./assets/Sample-Generated-README.png)
+
+
