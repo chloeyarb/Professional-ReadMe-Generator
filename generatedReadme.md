@@ -1,10 +1,10 @@
-# Sample
+# Sample README
 
-![License](https://img.shields.io/badge/License-None-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-orange.svg)
 
 ## Description
 
-This is a sample generator for the README file
+This project will present the user with a seriers of questions in the terminal in order to produce a professional README file. This is a devleopers dream to have the readme file of all readme files!
 
 ## Table of Contents
 
@@ -19,26 +19,26 @@ This is a sample generator for the README file
 
 ## Installation
 
-This is a sample
+This projects requires an NPM install to access inquirer, fs, and path
 
 ## Usage
 
-This is a sample
+As mentioned the intended use is for developers to be able to create a README file quick.
 
 ## License
 
-None
+MIT
 
 ## Contributors
 
-Sample
+Chloe yarborough
 
 ## Test
 
-This is a sample
+Testing was mostly out of the command line, ensuring everything functioned properly and produced the needed output.
 
 ## Questions 
 
-* To check out my GitHub profile use this username: Sample
-* For additional questions regarding this project I can be reached at sample@sample.com
+* To check out my GitHub profile use this username: yarboc
+* For additional questions regarding this project I can be reached at chloe@iscool.com
 
